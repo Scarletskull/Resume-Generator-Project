@@ -10,7 +10,7 @@ body {
 }
 .myimg {
   border: 1px solid Black;
-  border-radius: 100%;
+  border-radius: 75%;
   width: 100px;
 }
 
