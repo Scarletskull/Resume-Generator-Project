@@ -9,7 +9,7 @@ body {
   display: none;
 }
 .myimg {
-  /8border: 1px solid Black;*/
+  /*border: 1px solid Black;*/
   border-radius: 50%;
   width: 200px;
 }
