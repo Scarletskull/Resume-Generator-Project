@@ -9,9 +9,9 @@ body {
   display: none;
 }
 .myimg {
-  border: 1px solid Black;
+  /8border: 1px solid Black;*/
   border-radius: 50%;
-  width: 100px;
+  width: 200px;
 }
 
 .background {
