@@ -11,6 +11,7 @@ body {
 .myimg {
   border: 1px solid Black;
   border-radius: 100%;
+  width: 100px;
 }
 
 .background {
